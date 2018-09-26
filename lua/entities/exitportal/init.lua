@@ -3,6 +3,7 @@ AddCSLuaFile( "shared.lua" )  -- and shared scripts are sent.
  
 include('shared.lua')
 
+// you need to spawn an exitportal, and a portal, and give them the same ENT.portalIndex
 
 // THESE DO NOT MATTER
 // PORTAL Y MATTERS BUT NOT THE OTHERS
